@@ -275,9 +275,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Abhishek Maheshwari**  
 *Data Scientist | Business Intelligence Analyst*
 
-A passionate developer focused on creating tools that help the community build better, more beautiful software.  
-Transforming data into actionable insights, one dashboard at a time.
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778)
