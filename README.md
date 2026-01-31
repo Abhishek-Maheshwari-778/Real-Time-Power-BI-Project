@@ -1,242 +1,300 @@
 <div align="center">
 
-# Real-Time Power BI Project: Uber Analysis
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uber%20Analytics%20Dashboard&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-### Data-Driven Insights into Urban Mobility
+<img src="deshbord_images/1.png" alt="Dashboard Preview" width="95%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
-<img src="deshbord_images/1.png" alt="Dashboard Overview" width="100%">
+<br/>
 
----
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://dax.guide/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**[View Dashboard](#dashboard-highlights)** • **[Explore Features](#key-features)** • **[Tech Stack](#technical-architecture)** • **[Get Started](#getting-started)**
+<h3>🚖 Real-Time Data Analysis | 📊 Interactive Visualizations | 💰 Revenue Insights</h3>
+
+**[📂 View Project](#-project-overview) • [🎯 Features](#-what-makes-this-special) • [🚀 Get Started](#-quick-start) • [📸 Gallery](#-dashboard-gallery)**
 
 </div>
 
----
+<br/>
 
-## Project Overview
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-This repository hosts a comprehensive **Uber Data Analysis** project built with **Microsoft Power BI**. Designed for data analysts, business intelligence professionals, and urban planners, this dashboard transforms raw trip data into actionable insights.
+## 📌 Project Overview
 
-It solves the challenge of understanding complex trip patterns by visualizing key metrics like pickup/drop-off densities, trip durations, and revenue generation in a sleek, interactive interface.
+<img align="right" alt="Analytics" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-> **Note**: This project was built for educational purposes. I learned and developed this dashboard by following a "Watch and Make" YouTube tutorial on real-time data analysis.
+This repository showcases a **comprehensive Uber trip data analysis** built entirely in **Microsoft Power BI**. The project transforms raw transportation data into stunning, actionable insights through interactive dashboards and advanced DAX calculations.
 
----
+### 🎓 Learning Journey
 
-## Dashboard Highlights
+> **Note**: This project was built for educational purposes. I learned and developed this dashboard by following a "Watch and Make" YouTube tutorial on real-time data analysis, applying best practices in business intelligence and data visualization.
+
+### 🎯 Problem Statement
+
+Urban mobility companies generate massive amounts of data daily. This project addresses:
+- Understanding trip patterns and peak demand hours
+- Identifying high-revenue zones and vehicle performance
+- Optimizing fleet allocation based on geospatial insights
+- Tracking operational KPIs in real-time
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ✨ What Makes This Special?
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="deshbord_images/2.png" alt="Trip Analysis" width="100%">
-        <p align="center"><b>Trip Analysis View</b></p>
-      </td>
-      <td width="50%">
-        <img src="deshbord_images/3.png" alt="Revenue Analysis" width="100%">
-        <p align="center"><b>Revenue Breakdown</b></p>
-      </td>
-    </tr>
-  </table>
+
+| 🗺️ **Geospatial Analysis** | 💰 **Revenue Intelligence** | ⚡ **Real-Time KPIs** | 📈 **Trend Analysis** |
+|:---:|:---:|:---:|:---:|
+| Interactive maps showing pickup/dropoff hotspots | Revenue breakdown by vehicle type & time | Live tracking of trips, fares & distances | Historical patterns & forecasting |
+
 </div>
 
----
+### 🔥 Key Features
 
-## Why This Project?
+```diff
++ Interactive Dashboard with drill-down capabilities
++ Geospatial Intelligence for demand zone identification
++ Revenue Analysis by vehicle type (SUV, Sedan, etc.)
++ Operational KPIs: Total Trips, Wait Times, Trip Duration
++ Time-based Analysis: Peak hours, daily/weekly trends
++ Location Performance: Top pickup/dropoff locations
++ Professional UI/UX with custom visuals and icons
+```
 
-Your data analysis portfolio is your digital handshake. In 5 seconds, it tells recruiters and collaborators what you can do.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-This project demonstrates:
-- ✅ **Real-World Application**: Working with actual business data scenarios
-- ✅ **End-to-End Workflow**: From data cleaning to interactive visualization
-- ✅ **Professional Design**: Clean, intuitive dashboard layout
-- ✅ **Actionable Insights**: KPIs that drive business decisions
+## 📸 Dashboard Gallery
 
----
-
-## Key Features
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-**Interactive Dashboard**
-
-A fully dynamic `.pbix` report allowing deep-dives into specific timeframes and locations
-
+<td width="50%">
+<img src="deshbord_images/2.png" alt="Trip Analysis" width="100%" style="border-radius: 10px;"/>
+<h4>📊 Trip Analysis View</h4>
+<p>Comprehensive breakdown of trip metrics, distances, and durations with interactive filters</p>
 </td>
-<td width="33%" align="center">
-
-**Geospatial Intelligence**
-
-Visual maps tracking Pick-up and Drop-off hotspots to identify high-demand zones
-
+<td width="50%">
+<img src="deshbord_images/3.png" alt="Revenue Dashboard" width="100%" style="border-radius: 10px;"/>
+<h4>💵 Revenue Dashboard</h4>
+<p>Financial insights with fare analysis, earnings per mile, and payment method distribution</p>
 </td>
-<td width="33%" align="center">
-
-**Revenue Analysis**
-
-Detailed breakdown of fares by vehicle type (SUV, Sedan) and time of day
-
+</tr>
+<tr>
+<td colspan="2">
+<img src="deshbord_images/4.png" alt="Geospatial View" width="100%" style="border-radius: 10px;"/>
+<h4>🗺️ Geospatial Intelligence</h4>
+<p>Map-based visualization showing demand hotspots and route optimization opportunities</p>
 </td>
 </tr>
 </table>
 
-### Operational KPIs Tracked:
-- Total Trips
-- Average Wait Times
-- Trip Durations
-- Earnings per Mile
-- Peak Hour Analysis
-- Location-Based Performance
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Technical Architecture
+## 🛠️ Technical Architecture
 
-The analysis is built on a robust data modeling foundation within Power BI.
+<div align="center">
+
+```mermaid
+graph LR
+    A[Raw Data] --> B[Power Query ETL]
+    B --> C[Data Model]
+    C --> D[DAX Measures]
+    D --> E[Visualizations]
+    E --> F[Interactive Dashboard]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+    style F fill:#74b9ff
+```
+
+</div>
+
+### 📁 Repository Structure
 
 ```plaintext
 Real-Time-Power-BI-Project/
-├── data/
-│   ├── Uber Trip Details.xlsx    # Raw Trip Data (Time, Fare, Distance)
-│   └── Location Table.xlsx       # Geospatial Reference Data
-├── assets/
-│   ├── Images/                   # Icons & UI Assets
-│   └── deshbord_images/          # Dashboard Screenshots
-├── documentation/
-│   ├── Problem Statement.docx    # Project Requirements
+│
+├── 📊 ok.pbix                          # Main Power BI Report
+├── 📂 data/
+│   ├── Uber Trip Details.xlsx         # Trip transactions data
+│   └── Location Table.xlsx            # Geospatial reference
+├── 🎨 Images/                          # Dashboard icons & assets
+├── 📸 deshbord_images/                 # Screenshots for docs
+├── 📄 documentation/
+│   ├── Problem Statement.docx
 │   └── Real Time Power BI Project.docx
-├── ok.pbix                       # Main Power BI Report File
-├── README.md                     # Project Documentation
-└── LICENSE                       # MIT License
+├── 📝 README.md
+└── 📜 LICENSE
 ```
 
-### Data Model Features:
-- Star schema design for optimal performance
-- DAX measures for complex calculations
-- Relationship mapping between trip and location data
-- Time intelligence functions for trend analysis
+### 🧮 DAX Measures Implemented
 
----
+<details>
+<summary>Click to expand DAX examples</summary>
 
-## Getting Started
+- **Total Trips**: `COUNTROWS(Trips)`
+- **Total Revenue**: `SUM(Trips[Fare_Amount])`
+- **Average Trip Distance**: `AVERAGE(Trips[Trip_Distance])`
+- **Revenue per Mile**: `[Total Revenue] / [Total Distance]`
+- **Peak Hour Analysis**: Time intelligence functions
+- **YoY Growth**: `CALCULATE([Total Trips], SAMEPERIODLASTYEAR(Calendar[Date]))`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Quick Start
 
 ### Prerequisites
-- [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Latest Version)
-- Basic understanding of data visualization concepts
 
-### Installation Steps
+<div align="center">
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project.git
-   cd Real-Time-Power-BI-Project
-   ```
+![Power BI Desktop](https://img.shields.io/badge/Power%20BI%20Desktop-Required-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-2. **Open the Report**
-   - Double-click `ok.pbix` to open in Power BI Desktop
+</div>
 
-3. **Refresh Data (Optional)**
-   - If data source paths have changed, update them in Power BI
-   - Go to `Transform Data` > `Data Source Settings`
-   - Point to the Excel files in your local directory
+### Installation
 
-4. **Explore**
-   - Interact with filters and slicers
-   - Drill down into specific metrics
-   - Export insights as needed
+```bash
+# Clone this repository
+git clone https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project.git
 
----
+# Navigate to project directory
+cd Real-Time-Power-BI-Project
 
-## Who Is This For?
+# Open the Power BI file
+start ok.pbix
+```
+
+### 🎮 Usage
+
+1. **Open Dashboard**: Double-click `ok.pbix` in Power BI Desktop
+2. **Explore Visuals**: Use slicers and filters to interact with data
+3. **Refresh Data**: Update data sources if paths have changed
+4. **Customize**: Modify visuals and DAX measures as needed
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👥 Who Is This For?
+
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
-
-**Data Analysts**
-
-Explore techniques for data cleaning, modeling, and DAX calculations
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/business-analyst.png" width="80px"/><br/>
+<b>Data Analysts</b><br/>
+<sub>Learn Power BI best practices</sub>
 </td>
-<td width="25%" align="center">
-
-**Transport Managers**
-
-Understand peak hours and optimize fleet allocation
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/manager.png" width="80px"/><br/>
+<b>Business Managers</b><br/>
+<sub>Make data-driven decisions</sub>
 </td>
-<td width="25%" align="center">
-
-**Business Owners**
-
-Analyze revenue streams and identify growth opportunities
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/student-male.png" width="80px"/><br/>
+<b>Students</b><br/>
+<sub>Portfolio project reference</sub>
 </td>
-<td width="25%" align="center">
-
-**Students**
-
-Perfect reference for end-to-end Power BI project execution
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/developer.png" width="80px"/><br/>
+<b>BI Developers</b><br/>
+<sub>Explore DAX techniques</sub>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## Learning Resources
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Want to build something similar? Here are the resources I used:
-
-- [Power BI Documentation](https://docs.microsoft.com/power-bi/)
-- YouTube Tutorial: "Real Time Power BI Project | Uber Analysis"
-- [DAX Guide](https://dax.guide/)
-- [Power BI Community](https://community.powerbi.com/)
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for better visuals or optimized DAX measures:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/ImprovedVisuals`)
-3. Commit your changes (`git commit -m 'Add clearer revenue breakdown'`)
-4. Push to the branch (`git push origin feature/ImprovedVisuals`)
-5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+## 📚 Learning Resources
 
 <div align="center">
 
-## Author
+[![Power BI Docs](https://img.shields.io/badge/Power%20BI-Documentation-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://docs.microsoft.com/power-bi/)
+[![DAX Guide](https://img.shields.io/badge/DAX-Guide-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://dax.guide/)
+[![Community](https://img.shields.io/badge/Power%20BI-Community-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://community.powerbi.com/)
+
+</div>
+
+### 📺 Tutorial Credits
+
+This project was built following a comprehensive YouTube tutorial series on real-time Power BI analytics. Special thanks to the creator for the excellent educational content!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+<div align="center">
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![Contributors](https://img.shields.io/github/contributors/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=for-the-badge)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project/graphs/contributors)
+
+</div>
+
+### How to Contribute
+
+1. 🍴 Fork the repository
+2. 🔨 Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Open a Pull Request
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 👨‍💻 Author
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Abhishek+Maheshwari;Data+Scientist+%7C+Analyst;Building+Beautiful+Data+Solutions" alt="Typing SVG" />
+
+<br/>
 
 **Abhishek Maheshwari**  
 *Data Scientist | Analyst*
 
 A passionate developer focused on creating tools that help the community build better, more beautiful software.
 
----
+<br/>
 
-### Support the Project
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-maheshwari-778.github.io/Ultimate_GitHub_Profile_Collection_website/)
 
-If you find this analysis useful or inspiring, please give it a **⭐ star**!
+<br/>
 
+### ⭐ Support This Project
+
+If you find this analysis useful or inspiring, please give it a **star**!  
 It helps me create more open-source content.
 
----
+[![Star This Repo](https://img.shields.io/github/stars/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=social)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
+
+<br/>
 
 **Made with 💜 by Abhishek Maheshwari**
 
-© 2026 Real-Time Power BI Project
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
