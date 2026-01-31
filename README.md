@@ -193,22 +193,22 @@ start ok.pbix
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/business-analyst.png" width="80px"/><br/>
+<h2>📊</h2>
 <b>Data Analysts</b><br/>
 <sub>Learn Power BI best practices</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/manager.png" width="80px"/><br/>
+<h2>💼</h2>
 <b>Business Managers</b><br/>
 <sub>Make data-driven decisions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/student-male.png" width="80px"/><br/>
+<h2>🎓</h2>
 <b>Students</b><br/>
 <sub>Portfolio project reference</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/developer.png" width="80px"/><br/>
+<h2>👨‍💻</h2>
 <b>BI Developers</b><br/>
 <sub>Explore DAX techniques</sub>
 </td>
@@ -264,36 +264,72 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-## 👨‍💻 Author
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Abhishek+Maheshwari;Data+Scientist+%7C+Analyst;Building+Beautiful+Data+Solutions" alt="Typing SVG" />
+## 👨‍💻 About the Author
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Abhishek+Maheshwari;Data+Scientist+%7C+Analyst;Building+Beautiful+Data+Solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://github.com/Abhishek-Maheshwari-778.png" width="150px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
+
+<br/><br/>
+
+**Abhishek Maheshwari**  
+*Data Scientist | Business Intelligence Analyst*
 
 <br/>
 
-**Abhishek Maheshwari**  
-*Data Scientist | Analyst*
-
-A passionate developer focused on creating tools that help the community build better, more beautiful software.
+A passionate developer focused on creating tools that help the community build better, more beautiful software.  
+Transforming data into actionable insights, one dashboard at a time.
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Maheshwari-778)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-maheshwari-778.github.io/Ultimate_GitHub_Profile_Collection_website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
 
 <br/>
 
 ### ⭐ Support This Project
 
-If you find this analysis useful or inspiring, please give it a **star**!  
-It helps me create more open-source content.
-
-[![Star This Repo](https://img.shields.io/github/stars/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=social)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 <br/>
 
-**Made with 💜 by Abhishek Maheshwari**
+**If you find this analysis useful or inspiring, please give it a star!**  
+Your support helps me create more open-source content and educational resources.
 
 <br/>
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=social)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
+[![GitHub forks](https://img.shields.io/github/forks/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=social)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project?style=social)](https://github.com/Abhishek-Maheshwari-778/Real-Time-Power-BI-Project)
+
+<br/>
+
+---
+
+<br/>
+
+<h3>Made with 💜 by Abhishek Maheshwari</h3>
+
+<sub>© 2026 Real-Time Power BI Project • Licensed under MIT</sub>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
