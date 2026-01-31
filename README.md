@@ -272,10 +272,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <br/>
 
-<img src="https://github.com/Abhishek-Maheshwari-778.png" width="150px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
-
-<br/>
-
 **Abhishek Maheshwari**  
 *Data Scientist | Business Intelligence Analyst*
 
