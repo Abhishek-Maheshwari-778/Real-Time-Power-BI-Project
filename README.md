@@ -9,7 +9,7 @@ This repository hosts a comprehensive **Uber Data Analysis** project built with 
 
 It solves the challenge of understanding complex trip patterns by visualizing key metrics like pickup/drop-off densities, trip durations, and revenue generation in a sleek, interactive interface.
 
-> **Note**: This project was built for educational purposes following a "Watch and Make" YouTube tutorial. It serves as a practical implementation of real-time data analysis techniques.
+> **Note**: This project was built for educational purposes. I learned and developed this dashboard by following a "Watch and Make" YouTube tutorial on real-time data analysis.
 
 ## Dashboard Highlights
 <div align="center" style="display: flex; justify-content: space-between;">
