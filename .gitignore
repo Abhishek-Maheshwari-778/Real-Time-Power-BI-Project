@@ -1,0 +1,18 @@
+# Power BI
+*.pbix.zip
+*.pbit.zip
+*.pbit
+local/*.json
+
+# Data files (Optional: uncomment if you want to exclude data)
+# *.xlsx
+# *.csv
+# *.zip
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
